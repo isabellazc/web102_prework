@@ -26,17 +26,13 @@ Here's a walkthrough of implemented features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with ScreenToGif
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-- I still struggle with methods like filter and reduce. Figuring out how they work was definitely a challenge.
+- I still struggle with methods like filter and reduce. Figuring out how they work was definitely a challenge. However, the resources provided by CodePath and the internet really helped me.
 
 ## License
 
